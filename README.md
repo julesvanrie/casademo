@@ -1,1 +1,1 @@
-# My beautiful project
+# My Beautiful Project
